@@ -5,6 +5,7 @@ stage {
 
 #panel {
   background-color: rgba(0, 0, 0, 0.75);
+  color: rgba(255, 255, 255, 1.0);
   height: 32px;
 }
 
@@ -79,12 +80,12 @@ stage {
   box-shadow: none;
 }
 
-#dash .app-well-app-running-dot {
+.app-well-app-running-dot {
   background-color: rgba(255, 255, 255, 1);
 }
 
 .show-apps:hover .overview-icon {
-  background-color: rgba(240, 240, 240, 0.07);;
+  background-color: rgba(240, 240, 240, 0.07);
 }
 
 .show-apps:active .overview-icon,
@@ -143,7 +144,7 @@ stage {
 }
 
 .workspace-thumbnail-indicator {
-  border-color: #ED764D;
+  border-color: #EB6536;
 }
 
 #overview {
@@ -226,13 +227,13 @@ stage {
 
 .popup-menu .popup-menu-item:checked {
   color: #ffffff;
-  background-color: #ED764D;
+  background-color: #EB6536;
   box-shadow: none;
 }
 
 .popup-menu .popup-menu-item:active {
   color: #ffffff;
-  background-color: #ED764D;
+  background-color: #EB6536;
 }
 
 .popup-menu .popup-inactive-menu-item {
@@ -290,7 +291,7 @@ stage {
 
 .calendar-day-base:active,
 .calendar-day-base:selected {
-  background-color: #ED764D;
+  background-color: #EB6536;
   color: #ffffff;
 }
 
@@ -374,6 +375,8 @@ stage {
   border: none;
 }
 
+/*********************************************************************************/
+
 .notification-banner {
   color: #4d4d4d;
   background-color: #ffffff;
@@ -390,16 +393,16 @@ stage {
 }
 
 .notification-banner .notification-button {
-  background-color: transparent;
+  background-color: #f9f9f9;
 }
 
 /*********************************************************************************/
 
 .slider {
-  color: #E95420;
+  color: #EB6536;
   -slider-background-color: rgba(0, 0, 0, 0.05);
   -slider-border-color: transparent;
-  -slider-active-background-color: #ED764D;
+  -slider-active-background-color: #EB6536;
   -slider-active-border-color: transparent;
 }
 
@@ -420,3 +423,40 @@ stage {
   color: #FFFFFF;
 }
 
+/*********************************************************************************/
+
+.modal-dialog {
+  background-color: rgba(255, 255, 255, 1.0);
+  color: #4d4d4d;
+  border: none;
+}
+
+.modal-dialog .run-dialog-label {
+  color: #4d4d4d;
+}
+
+.modal-dialog-linked-button {
+  color: #4d4d4d;
+  border: none;
+  box-shadow: none;
+  background-color: #f9f9f9;
+  border-top: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.modal-dialog-linked-button:hover {
+  background-color: #f1f1f1;
+}
+
+.modal-dialog-linked-button:active {
+  background-color: #EB6536;
+  color: #ffffff;
+}
+
+StEntry {
+  background-color: rgba(0, 0, 0, 0.01);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  box-shadow: none;
+  color: #4d4d4d;
+  selection-background-color: #EB6536;
+  selected-color: #ffffff;
+}
