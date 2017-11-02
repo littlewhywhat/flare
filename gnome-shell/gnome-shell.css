@@ -66,6 +66,10 @@ stage {
   border: thin solid rgba(255, 255, 255, 0.05);
 }
 
+.dash-label {
+  background-color: rgba(30, 30, 30, 0.85);
+}
+
 #dash .app-well-app:hover .overview-icon,
 .right #dash .app-well-app:hover .overview-icon,
 .bottom #dash .app-well-app:hover .overview-icon,
