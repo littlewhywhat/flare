@@ -402,3 +402,21 @@ stage {
   -slider-active-background-color: #ED764D;
   -slider-active-border-color: transparent;
 }
+
+/*********************************************************************************/
+
+.workspace-switcher-container {
+  background-color: rgba(30, 30, 30, 1.0);
+  border: none;
+}
+
+.ws-switcher-box {
+  background: rgba(25, 25, 25, 1.0);
+  border: none;
+}
+
+.ws-switcher-active-up, .ws-switcher-active-down {
+  background-color: #EB6536;
+  color: #FFFFFF;
+}
+
