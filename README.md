@@ -23,8 +23,6 @@ This theme heavily relies on "Blyr" and "Dynamic Panel Transparency" extensions 
 Gnome shell extensions website. For the dynamic panel transparency enable custom foreground colors and custom background opacity.
 The optimal values for the panel opacity are 0.5 when not maximized and 0.88 when maximized.
 
-![alt text](https://raw.githubusercontent.com/vladimir-genkin/image-assets/master/screenshots/2017-11-04-17-19-26.png)
-
 ## Installation
 The Ubuntu font family is used throught the theme, so make sure to install it first.
 
