@@ -128,7 +128,7 @@ stage {
 }
 
 .window-caption {
-  background-color: transparent;
+  background-color: rgba(30, 30, 30, 0.85);
 }
 
 .window-caption:hover {
