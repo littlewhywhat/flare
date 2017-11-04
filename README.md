@@ -32,7 +32,7 @@ The Ubuntu font family is used throught the theme, so make sure to install it fi
 sudo apt install ttf-ubuntu-font-family
 ```
 
-Download the zip archive containing the theme and unzip it into the themes directory.
+Download the zip archive containing the theme and unzip it into the "themes" directory.
 
 ```
 cd Downloads
@@ -46,4 +46,4 @@ unzip flare-master.zip
 cp -r flare-master ~/.local/share/themes
 ```
 
-Once the theme was copied into the themes directory you can enable it using the Gnome tweak tool.
+Enable the theme using the Gnome tweak tool.
