@@ -16,7 +16,7 @@ The use of blur brings better contrast between the background and the overview i
 elements are now using translucent material in order to blend better with all kinds of different backgrounds
 and colors.
 
-![alt text](https://raw.githubusercontent.com/vladimir-genkin/image-assets/master/screenshots/2017-11-04-16-57-07.png)
+![alt text](https://raw.githubusercontent.com/vladimir-genkin/image-assets/master/screenshots/2017-11-04-21-27-50.png)
 
 ## Extensions
 This theme heavily relies on "Blyr" and "Dynamic Panel Transparency" extensions which can be found on the official
