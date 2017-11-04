@@ -17,4 +17,33 @@ elements are now using translucent material in order to blend better with all ki
 and colors.
 
 ![alt text](https://raw.githubusercontent.com/vladimir-genkin/image-assets/master/screenshots/2017-11-04-16-57-07.png)
+
+## Extensions
+This theme heavily relies on "Blyr" and "Dynamic Panel Transparency" extensions which can be found on the official
+Gnome shell extensions website. For the dynamic panel transparency enable custom foreground colors and custom background opacity.
+The optimal values for the panel opacity are 0.5 when not maximized and 0.88 when maximized.
+
 ![alt text](https://raw.githubusercontent.com/vladimir-genkin/image-assets/master/screenshots/2017-11-04-17-19-26.png)
+
+## Installation
+The Ubuntu font family is used throught the theme, so make sure to install it first.
+
+```
+sudo apt install ttf-ubuntu-font-family
+```
+
+Download the zip archive containing the theme and unzip it into the themes directory.
+
+```
+cd Downloads
+```
+
+```
+unzip flare-master.zip
+```
+
+```
+cp -r flare-master ~/.local/share/themes
+```
+
+Once the theme was copied into the themes directory you can enable it using the Gnome tweak tool.
