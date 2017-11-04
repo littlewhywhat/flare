@@ -7,7 +7,7 @@ familiar, but at the same time more modern.
 ![alt text](https://raw.githubusercontent.com/vladimir-genkin/image-assets/master/screenshots/2017-11-04-16-56-01.png)
 
 ## Colors
-Official Ubuntu colors were used throught the theme in order to keep the feel of the Ubuntu brand. 
+Official Ubuntu colors were used throughout the theme in order to keep the feel of the Ubuntu brand. 
 
 ![alt text](https://raw.githubusercontent.com/vladimir-genkin/image-assets/master/screenshots/2017-11-04-16-56-54.png)
 
