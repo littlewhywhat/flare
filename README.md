@@ -22,7 +22,7 @@ Gnome shell extensions website. For the dynamic panel transparency enable custom
 The optimal values for the panel opacity are 0.5 when not maximized and 0.88 when maximized.
 
 ## Installation
-The Ubuntu font family is used throught the theme, so make sure to install it first.
+The Ubuntu font family is used throughout the theme, so make sure to install it first.
 
 ```
 sudo apt install ttf-ubuntu-font-family
@@ -43,3 +43,8 @@ cp -r flare-master ~/.local/share/themes
 ```
 
 Enable the theme using the Gnome tweak tool.
+
+## Credits
+The icons shown on the screenshots are based on the Numix circle icon theme
+(https://github.com/numixproject/numix-icon-theme-circle). The GTK theme is
+called Equilux (https://github.com/ddnexus/equilux-theme).
