@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Flare
+Comment=Adwaita with neutral colors
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Flare
+MetacityTheme=Flare
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
