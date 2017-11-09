@@ -48,5 +48,4 @@ Enable the theme using the Gnome tweak tool.
 
 ## Credits
 The icons shown on the screenshots are based on the Numix circle icon theme
-(https://github.com/numixproject/numix-icon-theme-circle). The GTK theme is
-called Equilux (https://github.com/ddnexus/equilux-theme).
+(https://github.com/numixproject/numix-icon-theme-circle).
