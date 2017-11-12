@@ -148,7 +148,7 @@ stage {
 }
 
 .workspace-thumbnail-indicator {
-  border-color: #EB6536;
+  border-color: #ed764d;
 }
 
 #overview {
@@ -238,13 +238,13 @@ stage {
 
 .popup-menu .popup-menu-item:checked {
   color: #ffffff;
-  background-color: #EB6536;
+  background-color: #ed764d;
   box-shadow: none;
 }
 
 .popup-menu .popup-menu-item:active {
   color: #ffffff;
-  background-color: #EB6536;
+  background-color: #ed764d;
 }
 
 .popup-menu .popup-inactive-menu-item {
@@ -302,7 +302,7 @@ stage {
 
 .calendar-day-base:active,
 .calendar-day-base:selected {
-  background-color: #EB6536;
+  background-color: #ed764d;
   color: #ffffff;
 }
 
@@ -429,10 +429,10 @@ stage {
 /*********************************************************************************/
 
 .slider {
-  color: #EB6536;
+  color: #ed764d;
   -slider-background-color: rgba(0, 0, 0, 0.05);
   -slider-border-color: transparent;
-  -slider-active-background-color: #EB6536;
+  -slider-active-background-color: #ed764d;
   -slider-active-border-color: transparent;
 }
 
@@ -449,7 +449,7 @@ stage {
 }
 
 .ws-switcher-active-up, .ws-switcher-active-down {
-  background-color: #EB6536;
+  background-color: #ed764d;
   color: #FFFFFF;
 }
 
@@ -478,7 +478,7 @@ stage {
 }
 
 .modal-dialog-linked-button:active {
-  background-color: #EB6536;
+  background-color: #ed764d;
   color: #ffffff;
 }
 
@@ -487,6 +487,6 @@ StEntry {
   border: 1px solid rgba(0, 0, 0, 0.05);
   box-shadow: none;
   color: #4d4d4d;
-  selection-background-color: #EB6536;
+  selection-background-color: #ed764d;
   selected-color: #ffffff;
 }
