@@ -97,7 +97,7 @@ stage {
 .show-apps:checked .overview-icon,
 .show-apps:checked .show-apps-icon {
   color: #ffffff;
-  background-color: #E95420;
+  background-color: #eb6536;
   box-shadow: none;
   transition-duration: 0ms;
 }
