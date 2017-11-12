@@ -221,7 +221,7 @@ stage {
   -arrow-box-shadow: none;
   margin: 5px 8px 8px;
   background-color: #ffffff;
-  border-radius: 5px;
+  border-radius: 4px;
   box-shadow: 0 1px 15px rgba(0, 0, 0, 0.05), 0 3px 3px rgba(0, 0, 0, 0.05);
 }
 
@@ -392,7 +392,7 @@ stage {
   color: #4d4d4d;
   background-color: rgba(255, 255, 255, 1);
   border: none;
-  border-radius: 5px;
+  border-radius: 4px;
   box-shadow: 0 1px 15px rgba(0, 0, 0, 0.05), 0 3px 3px rgba(0, 0, 0, 0.05);
 }
 
@@ -400,7 +400,7 @@ stage {
   background-color: rgba(253, 253, 253, 1);
   color: rgba(0, 0, 0, 0.6);
   border: none;
-  border-radius: 5px;
+  border-radius: 4px;
   padding-top: 6px;
   padding-bottom: 6px;
   box-shadow: none;
