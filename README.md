@@ -16,8 +16,6 @@ The use of blur brings better contrast between the background and the overview i
 elements are now using translucent material in order to blend better with all kinds of different backgrounds
 and colors.
 
-![alt text](https://raw.githubusercontent.com/vladimir-genkin/image-assets/master/screenshots/2017-11-09-00-42-15.png)
-
 ## Extensions
 This theme heavily relies on "Blyr" and "Dynamic Panel Transparency" extensions which can be found on the official
 Gnome shell extensions website. For the dynamic panel transparency enable custom foreground colors and custom background opacity.
@@ -26,21 +24,14 @@ The optimal values for the panel opacity are 0.5 when not maximized and 0.88 whe
 ## Installation
 The Ubuntu font family is used throughout the theme, so make sure to install it first.
 
-```
+```sh
 sudo apt install ttf-ubuntu-font-family
 ```
-
 Download the zip archive containing the theme and unzip it into the "themes" directory.
 
-```
+```sh
 cd Downloads
-```
-
-```
 unzip flare-master.zip
-```
-
-```
 cp -r flare-master ~/.local/share/themes
 ```
 
