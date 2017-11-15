@@ -222,7 +222,7 @@ stage {
   margin: 5px 8px 8px;
   background-color: #ffffff;
   border-radius: 4px;
-  box-shadow: 0 1px 15px rgba(0, 0, 0, 0.06), 0 3px 3px rgba(0, 0, 0, 0.06);
+  box-shadow: 0 1px 15px rgba(0, 0, 0, 0.08), 0 3px 3px rgba(0, 0, 0, 0.08);
 }
 
 .popup-menu .popup-sub-menu {
@@ -393,7 +393,7 @@ stage {
   background-color: rgba(255, 255, 255, 1);
   border: none;
   border-radius: 4px;
-  box-shadow: 0 1px 15px rgba(0, 0, 0, 0.06), 0 3px 3px rgba(0, 0, 0, 0.06);
+  box-shadow: 0 1px 15px rgba(0, 0, 0, 0.08), 0 3px 3px rgba(0, 0, 0, 0.08);
 }
 
 .notification-banner .button {
@@ -410,7 +410,7 @@ stage {
 .notification-banner:hover {
   background-color: #ffffff;
   border: none;
-  box-shadow: 0 1px 15px rgba(0, 0, 0, 0.06), 0 3px 3px rgba(0, 0, 0, 0.06);
+  box-shadow: 0 1px 15px rgba(0, 0, 0, 0.08), 0 3px 3px rgba(0, 0, 0, 0.08);
 }
 
 .notification-banner:focus {
