@@ -7,6 +7,7 @@ stage {
   background-color: rgba(0, 0, 0, 0.90);
   color: rgba(255, 255, 255, 1.0);
   height: 32px;
+  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.16), 0 3px 3px rgba(0, 0, 0, 0.23);
 }
 
 #panel:overview {
@@ -214,7 +215,7 @@ stage {
 .popup-menu-boxpointer,
 .candidate-popup-boxpointer {
   -arrow-background-color: transparent;
-  -arrow-border-width: 1px;
+  -arrow-border-width: 0px;
   -arrow-border-color: rgba(0, 0, 0, 0.05);
   -arrow-base: 0;
   -arrow-rise: 0;
@@ -222,6 +223,7 @@ stage {
   margin: 5px 8px 8px;
   background-color: #ffffff;
   border-radius: 3px;
+  box-shadow: 0 1px 15px rgba(0, 0, 0, 0.06), 0 3px 3px rgba(0, 0, 0, 0.06);
 }
 
 .popup-menu .popup-sub-menu {
@@ -390,9 +392,9 @@ stage {
 .notification-banner {
   color: #4d4d4d;
   background-color: rgba(255, 255, 255, 1);
-  border: 1px solid rgba(0, 0, 0, 0.05);
+  border: 0px solid rgba(0, 0, 0, 0.05);
   border-radius: 3px;
-  box-shadow: none;
+  box-shadow: 0 1px 15px rgba(0, 0, 0, 0.06), 0 3px 3px rgba(0, 0, 0, 0.06);
 }
 
 .notification-banner .button {
@@ -408,8 +410,8 @@ stage {
 
 .notification-banner:hover {
   background-color: #ffffff;
-  border: 1px solid rgba(0, 0, 0, 0.05);
-  box-shadow: none;
+  border: 0px solid rgba(0, 0, 0, 0.05);
+  box-shadow: 0 1px 15px rgba(0, 0, 0, 0.06), 0 3px 3px rgba(0, 0, 0, 0.06);
 }
 
 .notification-banner:focus {
