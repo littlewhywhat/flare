@@ -7,7 +7,6 @@ stage {
   background-color: rgba(0, 0, 0, 0.90);
   color: rgba(255, 255, 255, 1.0);
   height: 32px;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2), 0 3px 3px rgba(0, 0, 0, 0.2);
 }
 
 #panel:overview {
